@@ -35,4 +35,4 @@ This project was built to practice and strengthen my front-end development skill
 
 ## 💻 Source Code
 
-[🔗 GitHub Repository](https://github.com/nufail-01/Netflix-Clone-Lite)
+[🔗 GitHub Repository](https://github.com/nufail-01/netflix-lite-project.git)
