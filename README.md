@@ -4,6 +4,12 @@ A modern **Netflix-style landing page** designed using HTML and CSS to sharpen m
 
 ---
 
+## 🌐 Live Demo
+
+[![Website Preview](assets/images/netflix.png)](https://nufail-01.github.io/Netflix-Clone-Lite/)
+
+---
+
 ## 🚀 Features
 
 - 🎨 Netflix-inspired dark theme and red accent color scheme  
@@ -11,12 +17,6 @@ A modern **Netflix-style landing page** designed using HTML and CSS to sharpen m
 - 🖼️ Hero section with promotional text and call-to-action buttons  
 - ✨ Smooth **hover effects** and **CSS transitions** for interactive UI  
 - ⚡ Clean, modern, and minimal streaming-style design
-
----
-
-## 🌐 Live Demo
-
-[![Website Preview](assets/images/netflix-lite.png)](https://nufail-01.github.io/Netflix-Clone-Lite/)
 
 ---
 
